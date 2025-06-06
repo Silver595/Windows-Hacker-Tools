@@ -63,7 +63,7 @@
 
 ## 🖼️ Preview
 
-![Screenshot](docs/demo.png)
+![Screenshot](docs/Demo.png)
 
 ---
 
